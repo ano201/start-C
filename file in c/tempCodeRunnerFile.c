@@ -1,0 +1,1 @@
+fgets(content, 1000, fptr);
